@@ -15,7 +15,7 @@ public class Principal {
             System.out.println("[3] Consultar Veículos Estacionados");
             System.out.println("[4] Sair");
             System.out.print("Escolha uma opção: ");
-
+git
             opcao = scanner.nextInt();
             scanner.nextLine();
 
