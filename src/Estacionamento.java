@@ -21,8 +21,8 @@ public class Estacionamento {
             System.out.println("Proprietário: " + veiculo.getProprietario());
             System.out.println("Placa: " + veiculo.getPlaca());
             System.out.println("Modelo: " + veiculo.getModelo());
-            listaVeiculos.size();
         }
+        System.out.println("Quantidade: " + listaVeiculos.size());
     }
 
     //aqui ele busca um veículo específico de acordo com a placa informada
